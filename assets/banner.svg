@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">quifl</title>
+  <desc id="d">The name quifl in large lowercase serif letters followed by a blinking cursor, with the line: regular human, vibe coder, learning as I go.</desc>
+  <rect width="1200" height="320" fill="#14110f"/>
+  <rect x="64" y="64" width="6" height="192" fill="#ffb454"/>
+  <text x="104" y="176" textLength="330" lengthAdjust="spacingAndGlyphs" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="700" fill="#f4efe6">quifl</text>
+  <rect x="454" y="78" width="22" height="108" fill="#ffb454">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;0.95;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="108" y="240" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="26" fill="#c9bfb0">regular human. vibe coder. learning as I go.</text>
+</svg>
